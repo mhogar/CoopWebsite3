@@ -19,12 +19,12 @@ body {
 }
 
 .banner.top {
-	/*background-image: url("imgs/banner_top.png");*/
+	background-image: url("imgs/banner_top.png");
 }
 
 .banner.bottom {
-	/*background-image: url("imgs/banner_bottom.png");
-	background-position-y: bottom;*/
+	background-image: url("imgs/banner_bottom.png");
+	background-position-y: bottom;
 }
 
 .banner-header {
